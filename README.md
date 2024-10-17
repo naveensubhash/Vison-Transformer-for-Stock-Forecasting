@@ -48,29 +48,6 @@ This project applies **Vision Transformers (ViT)**, a powerful deep learning mod
 - **TensorFlow** / **PyTorch** for deep learning model implementation
 - **Matplotlib** for visualizations
 
-## How to Run
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/vision-transformer-stock-forecasting.git
-    cd vision-transformer-stock-forecasting
-    ```
-
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the model training script:
-    ```bash
-    python train_model.py
-    ```
-
-4. View the results and accuracy comparisons:
-    ```bash
-    python evaluate_results.py
-    ```
-
 ## Results
 
 - **Vision Transformer (ViT)** demonstrated superior accuracy across various stocks compared to RNN, LSTM, CNN, and Transformer.
