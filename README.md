@@ -10,11 +10,10 @@ Date: December 11, 2023
 2. [Objectives](#objectives)
 3. [Methodology](#methodology)
 4. [Technologies Used](#technologies-used)
-5. [How to Run](#how-to-run)
-6. [Results](#results)
-7. [Conclusion](#conclusion)
-8. [Contributors](#contributors)
-9. [References](#references)
+5. [Results](#results)
+6. [Conclusion](#conclusion)
+7. [Contributors](#contributors)
+8. [References](#references)
 
 ## Project Overview
 
