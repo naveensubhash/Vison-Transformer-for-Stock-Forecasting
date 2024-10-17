@@ -2,7 +2,7 @@
 
 ### Authors: Naveen Subhash Udata, Kahan Dhaneshbhai Sheth
 Northeastern University, Boston, MA  
-Email: sheth.kah@northeastern.edu, udata.n@northeastern.edu  
+Email: udata.n@northeastern.edu, sheth.kah@northeastern.edu
 Date: December 11, 2023
 
 ## Table of Contents
